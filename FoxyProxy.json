@@ -1,0 +1,55 @@
+{
+  "mode": "disable",
+  "sync": true,
+  "autoBackup": false,
+  "passthrough": "www.localhost.com:3000\nwww.google.com\nlocalhost:3000",
+  "theme": "",
+  "container": {
+    "incognito": "",
+    "container-1": "",
+    "container-2": "",
+    "container-3": "",
+    "container-4": ""
+  },
+  "commands": {
+    "setProxy": "",
+    "setTabProxy": "",
+    "quickAdd": ""
+  },
+  "data": [
+    {
+      "active": true,
+      "title": "Chad",
+      "type": "socks5",
+      "hostname": "localhost",
+      "port": "2080",
+      "username": "",
+      "password": "",
+      "cc": "",
+      "city": "",
+      "color": "#da70d6",
+      "pac": "",
+      "pacString": "",
+      "proxyDNS": true,
+      "include": [],
+      "exclude": []
+    },
+    {
+      "active": true,
+      "title": "SSH",
+      "type": "socks5",
+      "hostname": "localhost",
+      "port": "4060",
+      "username": "",
+      "password": "",
+      "cc": "",
+      "city": "",
+      "color": "#ff00ff",
+      "pac": "",
+      "pacString": "",
+      "proxyDNS": true,
+      "include": [],
+      "exclude": []
+    }
+  ]
+}
